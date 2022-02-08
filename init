@@ -1,1 +1,5 @@
-# /bin/bash
+#! /bin/bash
+
+//init is a file for loading the system at boot.
+
+
